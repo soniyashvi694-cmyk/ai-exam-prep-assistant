@@ -1,5 +1,7 @@
 # AI-Based Exam Preparation Assistant
 
+   **Live app:** https://yashvi-exam-prep.streamlit.app
+
 A web app that helps school and college students prepare for exams.
 Built with Python, Streamlit, SQLite and the Google Gemini API.
 
